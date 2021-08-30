@@ -4,9 +4,14 @@ Have you ever tired of playing dino game or flappy bird with just pressing the a
 
 # How To Install
 $ pip install mediapipe
+
 $ pip install opencv-python
+
 $ pip install PyAutoGUI
 
+$ git clone https://github.com/MFarhanZ1/Gesture-Control
+
 # How To Use
-$ cd <directory name>
+$ cd (directory name)
+
 $ python startGesture.py
